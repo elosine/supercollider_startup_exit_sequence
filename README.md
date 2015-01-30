@@ -1,0 +1,1 @@
+# supercollider_startup_exit_sequence
